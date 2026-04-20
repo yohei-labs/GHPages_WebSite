@@ -19,7 +19,7 @@ Hello!
 ### game : Doragon Quest, Tetris
 
 ### music : The Beatles
-![image](/The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_4-3_crop)
+![image](/The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_4-3_crop.png)
 
 
 
