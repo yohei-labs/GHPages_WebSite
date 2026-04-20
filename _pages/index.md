@@ -8,15 +8,15 @@ permalink: /
 Hello!
 # name
 
-## Yohei
+### Yohei
 
 # My favorites
 
-## subject : math, English
+### subject : math, English
 
-## game : Doragon Quest, Tetris
+### game : Doragon Quest, Tetris
 
-# music : The Beatles
+### music : The Beatles
 
 
 
