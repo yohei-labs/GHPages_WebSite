@@ -6,11 +6,17 @@ permalink: /
 
 
 Hello!
+# name
 
+## Yohei
 
-## My favorites
+# My favorites
 
-## ・教科：英語、数学
+## subject : math, English
+
+# game
+
+## Doragon Quest, Tetris
 
 
 ---
