@@ -14,9 +14,11 @@ Hello!
 
 ## subject : math, English
 
-# game
+## game : Doragon Quest, Tetris
 
-## Doragon Quest, Tetris
+# music : The Beatles
+
+
 
 
 ---
