@@ -1,7 +1,7 @@
 default:
   name: "Yohei Kamada"
   avatar: "/assets/images/icons/default.png"
-  bio: "KITHUBで行われた勉強会の参加者です。"
+  bio: "I was a participant in a study session held at KITHUB."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
