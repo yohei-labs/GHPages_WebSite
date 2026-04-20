@@ -1,22 +1,21 @@
 ---
-title: "ここにページのタイトル"
+title: "introduction"
 author: default
 permalink: /
 ---
-
-
 Hello!
 
 # name
 
 ### Yohei
 
-
 # My favorites
 
-### subject : math, English
+### subject : English
+![image](/GHPages_WebSite/assets/images/)
 
-### game : Doragon Quest, Tetris
+### game : Doragon Quest
+![image](/GHPages_WebSite/assets/images/)
 
 ### music : The Beatles
 ![image](/GHPages_WebSite/assets/images/The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_4-3_crop.png)
