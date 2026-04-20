@@ -20,7 +20,6 @@ Hello!
 
 ### music : The Beatles
 
-# ![image](/GHPages_WebSite/assets/images/)
 
 
 
