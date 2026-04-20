@@ -15,7 +15,7 @@ Hello!
 ![image](/GHPages_WebSite/assets/images/102250.png)
 
 ### game : Doragon Quest
-![image](/GHPages_WebSite/assets/images/)
+![image](/GHPages_WebSite/assets/images/thumbnail_oevl.png)
 
 ### music : The Beatles
 ![image](/GHPages_WebSite/assets/images/The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_4-3_crop.png)
