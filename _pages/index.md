@@ -12,7 +12,7 @@ Hello!
 # My favorites
 
 ### subject : English
-![image](/GHPages_WebSite/assets/images/)
+![image](/GHPages_WebSite/assets/images/102250.png)
 
 ### game : Doragon Quest
 ![image](/GHPages_WebSite/assets/images/)
