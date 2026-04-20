@@ -8,7 +8,7 @@ permalink: /
 Hello!
 
 
-##My favorites
+## My favorites
 
 
 ---
