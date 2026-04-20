@@ -1,6 +1,6 @@
 default:
   name: "Yohei Kamada"
-  avatar: "/assets/images/icons/流れ星恐竜さん.png"
+  avatar: "/assets/images/流れ星恐竜さん.png"
   bio: "I was a participant in a study session held at KITHUB."
   links:
     - label: "Twitter"
