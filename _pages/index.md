@@ -10,6 +10,8 @@ Hello!
 
 ## My favorites
 
+## ・教科：英語、数学
+
 
 ---
 
