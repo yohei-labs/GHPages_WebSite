@@ -7,10 +7,10 @@ permalink: /
 
 Hello!
 
-
 # name
 
 ### Yohei
+
 
 # My favorites
 
