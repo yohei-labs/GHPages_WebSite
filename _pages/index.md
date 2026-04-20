@@ -4,13 +4,12 @@ author: default
 permalink: /
 ---
 Hello!
-
+  
 # name
-
 ### Yohei
 
+  
 # My favorites
-
 ### subject : English
 ![image](/GHPages_WebSite/assets/images/102250.png)
 
